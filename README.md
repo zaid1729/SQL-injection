@@ -8,7 +8,7 @@
   the username is "admin" and the password is "pass". So the output should be like that : 
       ![image](https://github.com/zaid1729/SQL-injection/assets/107809533/849357a1-63b9-4318-a62d-63b5766ea9f3)
 
-      ![image](https://github.com/zaid1729/SQL-injection/assets/107809533/aace5055-9b94-48cc-9d89-e9b6a68d70f6)
+   ![image](https://github.com/zaid1729/SQL-injection/assets/107809533/3b4f4829-1e72-4efb-a73f-9b80aa31c12e)
       
 
 
