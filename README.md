@@ -52,7 +52,7 @@
 
 
 
-   Successfully not escaping from SQL injection.
+   Successfully escaping from SQL injection.
 
 
 
