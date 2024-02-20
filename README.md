@@ -34,15 +34,17 @@
 
    when we replace on the PHP code the statment : 
 
-       $username = $_POST["username"];
-       $password = $_POST["password"];
+    $username = $_POST["username"];
+    $password = $_POST["password"];
       
 
 
    by this : 
 
+    $username = $conn->real_escape_string($_POST["username"]);
+    $password = $conn->real_escape_string($_POST["password"]);
 
-   ![image](https://github.com/zaid1729/SQL-injection/assets/107809533/621ddde5-4067-460a-9c9d-99a493556af0)
+
 
 
 
