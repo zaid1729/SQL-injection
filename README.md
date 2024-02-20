@@ -34,7 +34,8 @@
 
    when we replace on the PHP code the statment : 
 
-   ![image](https://github.com/zaid1729/SQL-injection/assets/107809533/207c4b56-a7c8-4488-ae20-8de0a8bb8cf2)
+   ''' $username = $_POST["username"];'''
+   '''  $password = $_POST["password"];'''
 
 
    by this : 
