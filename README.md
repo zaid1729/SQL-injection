@@ -20,13 +20,15 @@
              
      1' OR '1'='1
 
-   Which means -> SELECT * FROM personne WHERE  user = '1' OR '1'='1' and mot_de_passe = '1' OR '1'='1'
+   Which means :
+      
+     SELECT * FROM personne WHERE  user = '1' OR '1'='1' and mot_de_passe = '1' OR '1'='1'
 
 
    ![image](https://github.com/zaid1729/SQL-injection/assets/107809533/841c5405-e32d-458b-b671-00f50f09309d)
 
 
-   when i execute this will happen : 
+   when i execute the Query above this will happen : 
 
    ![image](https://github.com/zaid1729/SQL-injection/assets/107809533/4b51b30e-99d5-4ef4-ba5e-bd21962a03eb)
 
