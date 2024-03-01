@@ -16,7 +16,10 @@
 
    A successful SQL injection exploit can read sensitive data from the database, modify database data (Insert/Update/Delete). So it's all about inject some type of inputs.
 
-   Let's take for example this input :  1' OR '1'='1
+   Let's take for example this input :  
+             
+     1' OR '1'='1
+
    Which means -> SELECT * FROM personne WHERE  user = '1' OR '1'='1' and mot_de_passe = '1' OR '1'='1'
 
 
